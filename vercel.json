@@ -2,7 +2,7 @@
     "cleanUrls": true,
     "rewrites": [
         {
-            "source": "https://142.44.255.252:8073/",
+            "source": "https:\\/\\/142.44.255.252:8073\\/",
             "destination": "http://142.44.255.252:8073/"
         }
     ]
